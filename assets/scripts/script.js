@@ -1,4 +1,4 @@
-var modpackURL = "https://cdn.discordapp.com/attachments/1269073093310283959/1301999264699777024/DedSafio_3_-_Faction_Network.rar?ex=672684ce&is=6725334e&hm=cc2641c675e7f4684b60f0a954d8cf14f996443e839a9c5b9152e6e2a2079a76&";
+var modpackURL = "https://cdn.discordapp.com/attachments/1269073093310283959/1302021322058235954/Faction_Network_-_DedSafio_3.zip?ex=67269959&is=672547d9&hm=0ad5d412f2663d31cb58e916f98139b464ebd3afe5aa7f3763dad6f667db4bd2&";
 var tutorialURL = "https://youtu.be/_jbrxuqU-HQ";
 var discordURL = "https://discord.faction.es/";
 var tiendaURL = "https://tienda.faction.es/";
